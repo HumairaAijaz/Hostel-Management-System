@@ -22,5 +22,6 @@ git clone https://github.com/HumairaAijaz/Hostel-Management-System.git.
 gcc main.c student.c room.c fee.c complaint.c -o hostel.exe.
 # RUN THE APPLICATION;
 ./hostel.exe
-Author:Humaira Aijaz
+
+# Author:Humaira Aijaz
 Building and learning ...
