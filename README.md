@@ -23,5 +23,8 @@ gcc main.c student.c room.c fee.c complaint.c -o hostel.exe.
 # RUN THE APPLICATION;
 ./hostel.exe
 
+<img width="461" height="834" alt="image" src="https://github.com/user-attachments/assets/a5d5bf41-c217-42d8-aa31-39f72c1a5164" />
+
+
 # Author:Humaira Aijaz
 Building and learning ...
